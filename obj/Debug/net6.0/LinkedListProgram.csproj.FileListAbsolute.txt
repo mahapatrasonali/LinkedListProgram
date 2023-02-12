@@ -1,0 +1,15 @@
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\bin\Debug\net6.0\LinkedListProgram.exe
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\bin\Debug\net6.0\LinkedListProgram.deps.json
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\bin\Debug\net6.0\LinkedListProgram.runtimeconfig.json
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\bin\Debug\net6.0\LinkedListProgram.dll
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\bin\Debug\net6.0\LinkedListProgram.pdb
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.csproj.AssemblyReference.cache
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.AssemblyInfoInputs.cache
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.AssemblyInfo.cs
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.csproj.CoreCompileInputs.cache
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.dll
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\refint\LinkedListProgram.dll
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.pdb
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\LinkedListProgram.genruntimeconfig.cache
+C:\Users\SONALI MAHAPATRA\253\LinkedListProgram\LinkedListProgram\obj\Debug\net6.0\ref\LinkedListProgram.dll
